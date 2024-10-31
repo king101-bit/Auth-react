@@ -12,7 +12,7 @@ function App() {
         <Route path="/" element={<ProtectRoutes><Home /></ProtectRoutes>} />
         <Route path="/login" element={<Login />} />
         <Route path="/success" element={<Success />} />
-        <Route path="/profile" element={<Profile />} />
+        <Route path="/profile" element={<Profile user={user} />} />
       </Routes>
     </Router>
   );
