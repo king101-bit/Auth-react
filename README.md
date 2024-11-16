@@ -71,10 +71,11 @@ To begin using the app, navigate to
 # Contributing
 Contributions are welcome! To contribute:
 
-[![Made with Supabase](https://supabase.com/badge-made-with-supabase-dark.svg)](https://supabase.com)
 
    1. Fork the repository
    2. Create a new branch:```git checkout -b feature/your-feature-name```
    3. Make your changes and commit:```git commit -m 'Add your feature'```
    4. Push to your forked repository: ```git push origin feature/your-feature-name```
-   5.Submit a pull request
+   5. Submit a pull request
+
+[![Made with Supabase](https://supabase.com/badge-made-with-supabase-dark.svg)](https://supabase.com)
